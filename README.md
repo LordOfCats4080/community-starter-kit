@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome-bot is a bot that greets new users in a repository.
 
 ## What it does
 
